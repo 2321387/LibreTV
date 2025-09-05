@@ -121,13 +121,11 @@ const API_SITES = {
     testSource: {
         api: 'https://91jpzyw.com/api.php/provide/vod',
         name: '91',
-        adult: true
-    },
-    testSource: {
         api: 'https://hsckzy888.com/api.php/provide/vod',
         name: '黄色仓库',
         adult: true
     },
+
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
