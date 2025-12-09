@@ -118,12 +118,21 @@ const API_SITES = {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod/',
         name: '茅台资源站'
     },
+    maoti: {
+        api: 'https://wwzy.tv/api.php/provide/vod/',
+        name: '旺旺短剧'
+    },
     testSource: {
         api: 'https://91jpzyw.com/api.php/provide/vod',
         name: '91',
         adult: true
     },
-
+    testSource: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: '91麻豆',
+        adult: true
+    },
+    
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
