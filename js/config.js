@@ -118,12 +118,12 @@ const API_SITES = {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod/',
         name: '茅台资源站'
     },
-    testSource: {
+    zhiy: {
         api: 'https://91jpzyw.com/api.php/provide/vod',
         name: '91',
         adult: true
     },
-    testSource1: {
+    mado: {
         api: 'https://91md.me/api.php/provide/vod',
         name: '91麻豆',
         adult: true
