@@ -123,7 +123,7 @@ const API_SITES = {
         name: '91',
         adult: true
     },
-    testSource: {
+    testSource1: {
         api: 'https://91md.me/api.php/provide/vod',
         name: '91麻豆',
         adult: true
